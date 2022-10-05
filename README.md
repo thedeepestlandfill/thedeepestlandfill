@@ -22,4 +22,4 @@ uncertain that I am directing my attention efficiently.
 
 Gonna try and look up some python projects here on github to seek examples from experienced programmers.
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
